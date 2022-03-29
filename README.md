@@ -6,6 +6,8 @@ About a month ago Roblox introduced an IP-lock on cookies, meaning if you were t
 Source ~ https://devforum.roblox.com/t/ip-changes-invalidate-cookie/1700515
 
 Use cases:
+```
 ~ Multi-accounting (with multiple cookies you may not want to login to each)
 ~ The use of authentication required Roblox APIs with Proxies
 ~ Access to accounts that you may not have the login to anymore (via valid cookie)
+```
